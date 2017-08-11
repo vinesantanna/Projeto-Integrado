@@ -1,2 +1,0 @@
-# vine
-meu primeiro repositorio
